@@ -6,3 +6,5 @@ A simple CLI-based Todo List application in Python.
 Clone this project and look at the source files:
 - `main.py`
 - `todo_manager.py`
+
+*Initialized by vikramxsingh12 workspace automation.*
